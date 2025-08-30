@@ -1,0 +1,10 @@
+<?php
+echo"practical17";
+echo"<br>";
+$n=20;
+for($n=20;$n<=80;$n++){
+    if($n%2!=0){
+       echo"$n,";
+    }
+}
+?>
